@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "emrekovanci"
+owner : "emre kovanci"
 year : "2022"
