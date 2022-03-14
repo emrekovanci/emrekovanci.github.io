@@ -1,5 +1,5 @@
 ---
-title: Laravel - AppStoreConnect Api Integration
+title: Laravel - AppStoreConnect Api
 published: true
 ---
 
