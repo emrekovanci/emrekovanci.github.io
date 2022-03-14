@@ -1,5 +1,5 @@
 ---
-title: C++ - Vcpkg Package Manager
+title: C++ | Vcpkg Package Manager
 published: true
 ---
 

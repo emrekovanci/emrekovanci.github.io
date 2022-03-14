@@ -1,5 +1,5 @@
 ---
-title: Unity IOS - Jenkins Pipeline on MacOS
+title: Unity iOS | Jenkins Pipeline on MacOS
 published: true
 ---
 
