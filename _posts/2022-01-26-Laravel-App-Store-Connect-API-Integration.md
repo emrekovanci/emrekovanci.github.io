@@ -1,5 +1,5 @@
 ---
-title: Laravel - AppStoreConnect Api
+title: Laravel - App Store Connect API
 published: true
 ---
 
