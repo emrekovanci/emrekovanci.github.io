@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+Hi, I'm a game developer based in Istanbul.
